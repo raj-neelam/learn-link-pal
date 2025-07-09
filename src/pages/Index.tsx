@@ -142,7 +142,7 @@ const Index = () => {
                 <div className="flex items-start space-x-3">
                   <MessageCircle className="h-5 w-5 text-green-600 mt-1" />
                   <div>
-                    <h3 font-semibold text-gray-900">Real-time Notifications</h3>
+                    <h3 className="font-semibold text-gray-900">Real-time Notifications</h3>
                     <p className="text-gray-600">Get instant alerts when you have new matches</p>
                   </div>
                 </div>
